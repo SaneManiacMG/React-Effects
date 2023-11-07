@@ -1,11 +1,11 @@
 import "./App.css";
-import MouseContainer from "./components/MouseContainer";
+import DataFetching from "./components/DataFetching";
 
 const App = () => {
 	return (
 		<>
 			<h1>App.js</h1>
-			<MouseContainer />
+			<DataFetching />
 		</>
 	);
 };
