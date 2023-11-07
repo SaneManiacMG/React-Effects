@@ -1,11 +1,11 @@
 import "./App.css";
-import HookMouse from "./components/HookMouse";
+import MouseContainer from "./components/MouseContainer";
 
 const App = () => {
 	return (
 		<>
 			<h1>App.js</h1>
-			<HookMouse />
+			<MouseContainer />
 		</>
 	);
 };
